@@ -1,0 +1,8 @@
+{
+  "domain": "string",
+  "projects_mentioned": ["string"],
+  "strengths": ["string"],
+  "weaknesses": ["string"],
+  "final_score": "number (1-10)",
+  "summary_text": "string"
+}
