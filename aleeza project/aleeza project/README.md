@@ -117,7 +117,7 @@ This schema ensures that the AI response is consistent and structured so it can 
 
 Clone the repository:
 
-git clone https://github.com/your-username/interview-summary-generator.git
+git clone https://github.com/AleezaMajid/AIRESEARCH.git
 cd interview-summary-generator
 
 Create a virtual environment:
